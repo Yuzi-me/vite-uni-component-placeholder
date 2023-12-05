@@ -22,7 +22,7 @@
 
 # 🏕 示例
 
-<a href="https://github.com/Yuzi-me/vite-uni-component-placeholder" target="_blank">vite-uni-component-placeholder</a>
+<a href="https://github.com/Yuzi-me/vite-uni-component-placeholder-demo" target="_blank">vite-uni-component-placeholder-demo</a>
 
 # 🛠 安装
 
@@ -38,7 +38,7 @@ yarn add vite-uni-component-placeholder
 
 # ⚙️ 配置
 
-找到 vite.config.js
+找到 vite.config.js 配置插件
 
 ```
 import { defineConfig } from 'vite'
